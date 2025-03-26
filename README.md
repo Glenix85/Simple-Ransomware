@@ -3,6 +3,7 @@
 SIMPLE RANSOMWARE
 ------------------
 Made by Glenix85
+Written in C#
 
 I suggest you to read this file (README.md) first before using this application. Just one mistake could 
 
