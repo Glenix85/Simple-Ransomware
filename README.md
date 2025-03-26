@@ -10,7 +10,7 @@ I created this application just for education to everyone and for testing purpos
 Please DO NOT use for prank and evil purposes.
 The creator of this application is not responsible for any damages to your PC.
 To run it, make sure .NET Framework 6.0 is installed on your computer.
-To minimize the risk, run it in a virtual machine. However, it is safe to run it on a real machine.
+To minimize the risk, run it in a virtual machine.
 
 How to use it:
 1. Type a valid directory file that you want to encrypt (Oh yeah, btw you cannot encrypt a folder).
